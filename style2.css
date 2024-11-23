@@ -1,0 +1,16 @@
+.card
+{
+	margin: 10px;
+	width: 80%;
+	height: 95%;
+}
+.card-header, .card-body
+{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.card-body img
+{
+	width: 90%;
+}
